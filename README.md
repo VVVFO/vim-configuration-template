@@ -8,7 +8,7 @@ This is a Vim configuration template that achieves:
 2. Easy plugin management (powered by [Vundle](https://github.com/VundleVim/Vundle.vim))
 3. Easy syncing and version control (with `git`)
 
-See more information here: [vvvfo.com/2018/10/15/vim-configuration.html](https://vvvfo.com/2018/10/15/vim-configuration.html)
+See more information here: [vvvfo.com/2018/11/06/vim-configuration.html](https://vvvfo.com/2018/11/06/vim-configuration.html)
 
 ## Usage
 
